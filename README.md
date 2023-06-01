@@ -1,7 +1,7 @@
 # Research_6
 
 ### Todo List
-- [ ] make different directories for all paracetamol and water codes and simulations 
+- [x] make different directories for all paracetamol and water codes and simulations 
 - [ ] add seperate readmefiles to each of the folders
 - [ ] collect all the initial files of mdp , pdb , gro and topol files required for both paracetamol and water 
 - [ ] now make sure both the pdb files and gro files and the generation of the topol files are correct
