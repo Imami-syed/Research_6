@@ -1,3 +1,3 @@
 # Research_6
 - [ ] Point 1
-- [ ] Point 2
+- [x] Point 2
